@@ -1,2 +1,2 @@
-# TecwebDevops
-Projeto seguindo contrato social do grupo de OPE 
+# projetoWeb
+Desenvolvimento web com Django
