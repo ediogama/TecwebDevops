@@ -15,7 +15,9 @@ Edio Gama Filho	RA:1701060
 
 Jefferson Kwak RA: 1701391
 
-Marcos Vviana RA:1701253
+Marcos Viana RA:1701253
+
+Lucas Nessi RA: 1701780
 
 Marcio Felipe RA: 1701580
 
